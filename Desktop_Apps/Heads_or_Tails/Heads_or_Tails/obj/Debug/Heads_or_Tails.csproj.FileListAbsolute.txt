@@ -1,0 +1,10 @@
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.csprojAssemblyReference.cache
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.frmCoinToss.resources
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.Properties.Resources.resources
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.csproj.GenerateResource.cache
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.csproj.CoreCompileInputs.cache
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\bin\Debug\Heads_or_Tails.exe.config
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\bin\Debug\Heads_or_Tails.exe
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\bin\Debug\Heads_or_Tails.pdb
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.exe
+C:\Users\omari\source\repos\Heads_or_Tails\Heads_or_Tails\obj\Debug\Heads_or_Tails.pdb

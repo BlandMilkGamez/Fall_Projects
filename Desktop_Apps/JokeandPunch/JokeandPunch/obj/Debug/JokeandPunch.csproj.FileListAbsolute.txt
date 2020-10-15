@@ -1,0 +1,10 @@
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\bin\Debug\JokeandPunch.exe.config
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\bin\Debug\JokeandPunch.exe
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\bin\Debug\JokeandPunch.pdb
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.csprojAssemblyReference.cache
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.frmJoke.resources
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.Properties.Resources.resources
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.csproj.GenerateResource.cache
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.csproj.CoreCompileInputs.cache
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.exe
+C:\Users\omari\source\repos\JokeandPunch\JokeandPunch\obj\Debug\JokeandPunch.pdb
